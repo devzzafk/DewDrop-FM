@@ -1,0 +1,1 @@
+Welcome to DewDrop FM, a cozy, browser-based music player designed to wash your local audio files in cozy vibes. Drag, drop, and curate your perfect lo-fi corner directly in your browser. No servers, no streaming logins, completely private, and purely magical.
